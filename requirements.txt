@@ -1,0 +1,5 @@
+streamlit
+pymupdf
+strands-sdk
+matplotlib
+pillow

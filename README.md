@@ -1,4 +1,4 @@
-# 🔎 Research Assistant with Memory and Multi-Agent Workflow
+# 🔎 Strands Research Assistant with Memory and Multi-Agent Workflow
 
 ## ✨ Overview
 This project demonstrates an **Agentic Workflow** using Strands Agents combined with **memory capabilities** and an interactive **Streamlit UI**. It enables:

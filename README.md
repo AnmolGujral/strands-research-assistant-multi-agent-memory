@@ -17,6 +17,8 @@ This project demonstrates an **Agentic Workflow** using Strands Agents combined 
 - Displayed directly in the **Streamlit UI** (expandable section).
 - **Included in the downloadable PDF report** as a dedicated page.
 
+![Workflow Architecture](assets/flow_diagram.png)
+
 ---
 
 ## ▶️ Run Locally
